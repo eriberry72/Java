@@ -6,7 +6,7 @@ public class HomeworkOne {
 		radius = 1;
 					
 		area = Math.PI * (radius*radius);
-        // This is our formula, pi r squared
+                // This is our formula, pi r squared
 
 		System.out.println("The area for a circle, where r=" + radius + " is " + area);
 		
