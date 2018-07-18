@@ -2,7 +2,7 @@ public class HomeworkTwo {
 
         public static void main(String[] args) {
         
-        // find a perentage when given the total marks and student mark
+        // code will find a perentage when given the total marks and student mark
         
         double studentMark = 116;
         int totalMarks = 119;
