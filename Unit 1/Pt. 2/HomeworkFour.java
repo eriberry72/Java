@@ -1,7 +1,7 @@
 public class HomeworkFour {
 
 	public static void main(String[] args) {
-		// Find slope when given x1, y1 and x2, y2
+		// Code will find slope when given x1, y1 and x2, y2
 		int x1=1, y1=2, x2=3, y2=4;
                 int slope;
 					
